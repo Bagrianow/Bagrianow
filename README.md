@@ -6,7 +6,7 @@ Fresh Frontend developer
 
 * 🌍  I'm based in Warsaw, Poland but open for relocate !
 * ✉️  You can contact me at [bagrianow@gmail.com](mailto:bagrianow@gmail.com)
-* 🧠  I'm learning NODE.JS
+* 🧠  I'm learning NODE.JS and NEXT.JS
 * 🤝  I'm open to collaborating on Frontend projects
 * check out some of my websites >> https://bagrianow.netlify.app/ // https://bagrianow-sushi.netlify.app
 
