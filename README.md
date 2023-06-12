@@ -8,7 +8,7 @@ Fresh Frontend developer
 * ✉️  You can contact me at [bagrianow@gmail.com](mailto:bagrianow@gmail.com)
 * 🧠  I'm learning NODE.JS and NEXT.JS
 * 🤝  I'm open to collaborating on Frontend projects
-* check out some of my websites >> https://bagrianow.netlify.app/ // https://bagrianow-sushi.netlify.app
+* check out some of my websites >> https://bagrianow.netlify.app/ // https://bagrianow-sushi.netlify.app // https://bagrianowai.netlify.app/
 
 ### Skills
 
